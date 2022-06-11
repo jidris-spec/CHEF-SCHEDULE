@@ -1,2 +1,2 @@
 # CHEF-SCHEDULE
-It shows the chef what toicook
+It shows the chef what to cook
